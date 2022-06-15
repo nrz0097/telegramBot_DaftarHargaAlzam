@@ -44,7 +44,7 @@ function ubah(chtId, cmd) {
         '<b>HARGA BELI :</b> (harga_beli)' + '\n' +
         '<b>KETERANGAN :</b> (keterangan)' + '\n\n' +
         '- Copas command dibawah lalu masukan nomor data yang mau diedit.' + '\n' +
-        '- Ketik command <b>/tampildata</b> untuk menampilkan kode barang.' ;
+        '- Ketik command <b>/tampildata</b> untuk menampilkan kode barang.';
     sendText(chtId, txtInfo);
     var txtEdit = '<code>edit@</code>';
     sendText(chtId, txtEdit);
