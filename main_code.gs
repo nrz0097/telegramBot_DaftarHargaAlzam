@@ -1,7 +1,7 @@
-var tokenBot = "5417139577:AAF5D5V12mzVeLWxmVqUSYW1MpKiNlwXDuk"; //token bot telegram
+var tokenBot = "xxx"; //token bot telegram
 var urlBot = "https://api.telegram.org/bot" + tokenBot; //url api bot
-var webAppUrl = "https://script.google.com/macros/s/AKfycbwT155mhyLyolBLdiP6bSYxyYDNAwvqIlZWu5fvjtiLly3LUUQ/exec"; //urlapp
-var sheetId = "1KZ1Cq7VbkUB-kEptdT1pQSn8bbE3K7Or_GnUdNRlv4A"; //google sheet id
+var webAppUrl = "xxx"; //urlapp
+var sheetId = "xxx"; //google sheet id
 
 //fungsi set webhook
 function setWebhook() {
