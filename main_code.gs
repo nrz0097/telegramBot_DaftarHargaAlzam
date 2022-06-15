@@ -27,7 +27,7 @@ function doPost(e) {
     var text = datas.message.text;
     var cmd = text.toLowerCase();
 
-//membuat command
+    //membuat command
     if (cmd.substr(0, 6) == '/start') {
         start(chtId, cmd);
     }
